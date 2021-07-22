@@ -5983,11 +5983,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\API\\DemoFoodApI\\DemoFoodApI\\DemoFoodApI.csproj",
+      "projectUniqueName": "C:\\Users\\Jagadeesh R\\OneDrive\\Desktop\\formal code\\thinkbig\\DemoFoodApI\\DemoFoodApI\\DemoFoodApI.csproj",
       "projectName": "DemoFoodApI",
-      "projectPath": "D:\\API\\DemoFoodApI\\DemoFoodApI\\DemoFoodApI.csproj",
+      "projectPath": "C:\\Users\\Jagadeesh R\\OneDrive\\Desktop\\formal code\\thinkbig\\DemoFoodApI\\DemoFoodApI\\DemoFoodApI.csproj",
       "packagesPath": "C:\\Users\\Jagadeesh R\\.nuget\\packages\\",
-      "outputPath": "D:\\API\\DemoFoodApI\\DemoFoodApI\\obj\\",
+      "outputPath": "C:\\Users\\Jagadeesh R\\OneDrive\\Desktop\\formal code\\thinkbig\\DemoFoodApI\\DemoFoodApI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jagadeesh R\\AppData\\Roaming\\NuGet\\NuGet.Config",
