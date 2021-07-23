@@ -11,6 +11,7 @@ namespace DemoFoodApI.Entities
     {
 
         [Key]//set Primary key constraint
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int? Paymentid { get; set; }
 
         public int Orderid { get; set; }

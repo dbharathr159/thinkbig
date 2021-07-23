@@ -10,6 +10,9 @@ namespace DemoFoodApI.Entities
     public class Order
     {
         [Key]//set Primary key constraint
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+
+        
         public int Orderid { get; set; }
         [Column(TypeName = "Date")]
         public DateTime OrderDate { get; set; }

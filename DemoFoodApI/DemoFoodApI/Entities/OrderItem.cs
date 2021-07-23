@@ -4,9 +4,11 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using Microsoft.EntityFrameworkCore;
 namespace DemoFoodApI.Entities
 {
     [Table("OrderItem")]
+    [Keyless]
     public class OrderItem
     {
         
