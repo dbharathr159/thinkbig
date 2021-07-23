@@ -14,7 +14,7 @@ namespace DemoFoodApI.Entities
         public int? Menuid { get; set; }
         [StringLength(20)]
         public string MenuName { get; set; }
-        public string Quantity { get; set; }
+        public int? Quantity { get; set; }
         [Column(TypeName = "Decimal")]
         public double Price { get; set; }
         [StringLength(20)]
