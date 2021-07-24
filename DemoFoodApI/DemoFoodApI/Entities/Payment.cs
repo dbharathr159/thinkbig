@@ -24,8 +24,6 @@ namespace DemoFoodApI.Entities
         public string PaidBy { get; set; }
         [StringLength(20)]
         public string Status { get; set; }
-
-        
         
     }
 }
